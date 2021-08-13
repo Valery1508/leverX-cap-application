@@ -45,6 +45,13 @@
 				<type>pom</type>
 				<scope>import</scope>
 			</dependency>
+
+			<!-- REMOTE SERVICES -->
+			<dependency>
+				<groupId>com.sap.cds</groupId>
+				<artifactId>cds-feature-remote-odata</artifactId>
+				<scope>runtime</scope>
+			</dependency>
 		</dependencies>
 	</dependencyManagement>
 
