@@ -1,0 +1,1 @@
+INSERT INTO com_leverx_cap_test_Owners(ID, firstName, lastName) VALUES (1,'Lera','Zubryt');
